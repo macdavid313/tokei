@@ -714,7 +714,7 @@
       "line_comment": [";"],
       "multi_line_comments": [["#|", "|#"]],
       "nested": true,
-      "extensions": ["lisp", "lsp"]
+      "extensions": ["lisp", "cl"]
     },
     "LiveScript": {
       "line_comment": ["#"],
